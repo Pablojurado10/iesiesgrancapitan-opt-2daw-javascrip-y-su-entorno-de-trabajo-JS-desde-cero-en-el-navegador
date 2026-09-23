@@ -123,19 +123,32 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    });
    ```
 6. Desde VSCode abre `formulario.html` en tu navegador y prueba el formulario.
-
+![alt text](img/3.png)
    
 ## Parte 6: Preguntas de reflexión
 
 1. ¿Qué hace `console.log`?
+  Mostrar por con consola 
 2. ¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
+  Si se puede, se modifica solo en el navegador no se modifica en el codigo en local  
 3. ¿Para qué sirve la consola del navegador en este contexto?
+  sirve para pruebas en tiempo real
 4. Para qué sirve el archivo HTML en este contexto?
+  es  el contenido de la página web.
 5. ¿Por qué es una buena práctica separar el código JavaScript del HTML?
+  Esta regla corresponde al principio de Separación de Responsabilidades
 6. Por qué se llama Vanilla JavaScript?
+    "Vanilla JS" no es un lenguaje o un framework nuevo; es simplemente un término para referirse a JavaScript puro sin utilizar ninguna librería externa
 7. Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
 8. Cómo se define una función en JS
+```java
+  function saludar(nombre) {
+    return `Hola, ${nombre}`;
+  }
+```
 9. Sobre el código demuestra la diferencia entre let y const
+   let permite reasignar su valor en cualquier momento y const exige un valor inicial y no permite cambiarlo
+   
 10. Indica en el código:
    1. Si puede evitarse el uso de let. Qué hace
    2. Cuántos eventos hay en el código, cuáles son y para qué sirven
