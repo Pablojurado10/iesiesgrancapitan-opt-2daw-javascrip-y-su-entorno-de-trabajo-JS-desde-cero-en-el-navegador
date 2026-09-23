@@ -49,7 +49,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    console.log("¡Hola, mundo!")
    let nombre = "Anita"
    nombre
-   ```
+![alt text](img/1.png)
 
 ## Parte 3: Tu primer archivo HTML + JavaScript
 
@@ -74,7 +74,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    ```
 4. Desde VSCode abre el archivo `hola.html` en tu navegador.
 5. Observa el resultado en la consola del navegador.
-
+![alt text](img/2.png)
 ## Parte 4: Experimenta
 
 - Cambia el valor de la variable `nombre` por el tuyo y recarga la página.
