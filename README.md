@@ -73,6 +73,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    </html>
    ```
 4. Desde VSCode abre el archivo `hola.html` en tu navegador.
+- [hola.html](00JSyEntorno/hola.html)
 5. Observa el resultado en la consola del navegador.
 ![alt text](img/2.png)
 ## Parte 4: Experimenta
@@ -125,7 +126,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    ```
 6. Desde VSCode abre `formulario.html` en tu navegador y prueba el formulario.
 ![alt text](img/3.png)
-   
+- [formulario](00JSyEntorno/formulario.html)   
 ## Parte 6: Preguntas de reflexión
 
 1. ¿Qué hace `console.log`?
